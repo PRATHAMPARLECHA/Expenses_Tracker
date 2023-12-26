@@ -1,4 +1,4 @@
-# `Expense_Tracker`
+# `PocketTracker`
 
 Install node modules
 ### `npm install`
